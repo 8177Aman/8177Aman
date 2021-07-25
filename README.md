@@ -41,5 +41,5 @@
   Your browser does not support HTML video.
 </video>
 
-
+<img src="https://github.com/8177Aman/8177Aman/blob/main/Let's%20Get%20Groovy.gif">
 
