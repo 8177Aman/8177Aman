@@ -1,4 +1,4 @@
-<h1 align="center">Julle World Aman Yerwarkar</h1>
+<h1 align="center">Namaste 🙏 , I'm Aman Yerwarkar</h1>
 <h3>A passionate about programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=8177aman&label=Profile%20views&color=0e75b6&style=flat" alt="8177aman" /> </p>
@@ -17,7 +17,8 @@
 
 - 📄 Know about my experiences [fresher](fresher)
 
-- ⚡ Fun fact **i think i am funny**
+# oprating system known:
+  < https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,3 +29,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=8177aman&show_icons=true&locale=en" alt="8177aman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=8177aman&" alt="8177aman" /></p>
+
+<video width="400" controls>
+  <source src="mov_bbb.mp4" type="video/mp4">
+  <source src="mov_bbb.ogg" type="video/ogg">
+  Your browser does not support HTML video.
+</video>
+
+
+
