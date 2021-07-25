@@ -1,5 +1,6 @@
 <h1 align="center">Namaste 🙏 , I'm Aman Yerwarkar</h1>
-<h3>A passionate about programming</h3>
+<h3>A passionate about learning new things </h3>
+<img src="https://github.com/8177Aman/8177Aman/blob/main/Let's%20Get%20Groovy%20crop.png%20%20(2).png" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=8177aman&label=Profile%20views&color=0e75b6&style=flat" alt="8177aman" /> </p>
 
@@ -18,7 +19,11 @@
 - 📄 Know about my experiences [fresher](fresher)
 
 # oprating system known:
-  < https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+  <img src="https://img.shields.io/badge/android-000000?style=for-the-badge&logo=android&logoColor=white">
+ 
 
 
 <h3 align="left">Languages and Tools:</h3>
