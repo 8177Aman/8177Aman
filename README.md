@@ -36,7 +36,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=8177aman&" alt="8177aman" /></p>
 
 <video width="400" controls>
-  <source src="mov_bbb.mp4" type="video/mp4">
+  <source src="https://github.com/8177Aman/8177Aman/blob/main/INTRO.mp4" type="video/mp4">
   <source src="mov_bbb.ogg" type="video/ogg">
   Your browser does not support HTML video.
 </video>
