@@ -14,15 +14,15 @@
 
 - 💬 Ask me about **php**
 
-- 📫 How to reach me **amanyerwarkar@gmail.com**
+- 📫 How to reach me **amanyerwarkar2001@gmail.com**
 
 - 📄 Know about my experiences [fresher](fresher)
 
 # oprating system known:
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <p><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-  <img src="https://img.shields.io/badge/android-000000?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/android-000000?style=for-the-badge&logo=android&logoColor=white"></p>
  
 
 
@@ -35,11 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=8177aman&" alt="8177aman" /></p>
 
-<video width="400" controls>
-  <source src="https://github.com/8177Aman/8177Aman/blob/main/INTRO.mp4" type="video/mp4">
-  <source src="mov_bbb.ogg" type="video/ogg">
-  Your browser does not support HTML video.
-</video>
-
-<img src="https://github.com/8177Aman/8177Aman/blob/main/Let's%20Get%20Groovy.gif">
 
